@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap06\AdaptiveLayout\AdaptiveLayout.csproj;x86
