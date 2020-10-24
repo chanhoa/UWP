@@ -1,0 +1,1 @@
+C:\Users\Admin\source\Universal Windows Platform\bài1\UWP_Lab08_ProductManager-master\Lab08_ProductsCategory\Lab08_ProductsCategory\Lab08_ProductsCategory.csproj;x86
